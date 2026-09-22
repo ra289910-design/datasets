@@ -1,0 +1,13 @@
+About this dataset,
+,
+Compiled,"15 September 2026, from public media reports, company statements, police/INTERPOL figures and regulator findings."
+Scope,"Publicly reported cyber incidents where a Ugandan organisation (or its systems) was the victim, 2011–2026. Scam call centres targeting people abroad and purely physical thefts are excluded."
+Sector (Primary),"Sector of the main victim organisation. Mobile money is classed as Financial Services (it is regulated as a payment service), with Telecommunications listed under 'Other Sectors Affected'. Use the Sub-sector column to split it out if you prefer."
+Confirmed,"Acknowledged by the victim, a regulator, court, police or INTERPOL."
+Reported,"Covered by credible media but not formally confirmed, or based on anonymous sources / attacker claims."
+Alleged,Early-stage allegations from an ongoing investigation.
+Disputed,Media called it a cyber attack but the organisations gave a different cause.
+Loss figures,"'Reported Loss' is the best available published figure; many incidents have no disclosed amount, so sector loss totals understate reality. USD is only filled where a source gave it."
+Main limitation,"This is a list of publicised incidents, not a complete census. Ugandan banks have historically kept incidents quiet to protect their reputation, and the police recorded 474 cybercrime cases in 2024 alone, so the true count is far higher. Treat the sector ranking as indicative."
+Adding incidents,Add a new row at the bottom of the Incidents sheet (up to row 500). Pick Sector and Confidence from the dropdowns; the Sector Analysis sheet updates automatically.
+Items to double-check,"UG-007 (date approximate), UG-017 (anonymous sources), UG-021 and UG-022 (July 2026 events still under investigation)."

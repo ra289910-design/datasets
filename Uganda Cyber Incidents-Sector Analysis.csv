@@ -1,0 +1,46 @@
+Which sector is hit the most? – Uganda cyber incidents,,,,,,,
+"All figures are formulas over the Incidents sheet (rows 2–500), so they update as you add incidents.",,,,,,,
+,,,,,,,
+Most-hit sector (by incident count):,Financial Services,,,,,,
+Share of all incidents:,45.5%,,,,,,
+Share of quantified losses:,97.7%,,,,,,
+,,,,,,,
+Sector,Incidents,Share of Incidents,Confirmed Incidents,Incidents 2021–2026,Reported Loss (UGX bn),Share of Quantified Loss,Rank (by incidents)
+Financial Services,10,45.5%,6,6,85.49,97.7%,1
+Government & Public Sector,7,31.8%,1,2,2.00,2.3%,2
+Telecommunications,2,9.1%,0,2,-,0.0%,3
+Education,2,9.1%,1,0,-,0.0%,3
+Energy & Utilities,1,4.5%,1,1,-,0.0%,5
+Health,0,0.0%,0,0,-,0.0%,-
+Media,0,0.0%,0,0,-,0.0%,-
+Other,0,0.0%,0,0,-,0.0%,-
+Total,22,100.0%,9,11,87.49,100.0%,
+Losses only count incidents with a published figure; most incidents have no disclosed loss.,,,,,,,
+Incidents by sector and period,,,,,,,
+Sector,2011–2015,2016–2020,2021–2026,,,,
+Financial Services,2,2,6,,,,
+Government & Public Sector,3,2,2,,,,
+Telecommunications,0,0,2,,,,
+Education,1,1,0,,,,
+Energy & Utilities,0,0,1,,,,
+,,,,,,,
+Incidents by type,,,,,,,
+Incident Type,Incidents,Of which Financial Services,,,,,
+Unauthorised access / system fraud,6,4,,,,,
+Website defacement / hacktivism,5,0,,,,,
+Data breach / exposure,3,2,,,,,
+Insider fraud,2,2,,,,,
+Unauthorised access / records manipulation,2,0,,,,,
+Ransomware / extortion,2,1,,,,,
+SIM-swap fraud,1,1,,,,,
+Service disruption (cause disputed),1,0,,,,,
+,,,,,,,
+Inside Financial Services: which sub-sector?,,,,,,,
+Sub-sector,Incidents,Reported Loss (UGX bn),,,,,
+Banking & mobile money,1,-,,,,,
+Capital markets,1,-,,,,,
+Central bank / public finance,1,53.50,,,,,
+Commercial banking,2,-,,,,,
+Microfinance (MDI),1,0.40,,,,,
+Mobile money (telco-operated),3,21.15,,,,,
+Payments aggregator / bank-to-wallet,1,10.44,,,,,
